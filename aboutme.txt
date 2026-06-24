@@ -1,0 +1,28 @@
+ABOUT ME
+
+Name: Nattakorn Nantakarn
+
+I am a high school student from Prince Royal's College with a strong interest in software engineering, game development, artificial intelligence, robotics, and biomedical innovation.
+
+I enjoy building projects that combine programming, hardware, and real-world problem solving. My experience includes developing Unity games, creating AI-powered applications, designing robotic systems, and working on engineering projects for competitions and research exhibitions.
+
+Currently, I am preparing projects and a portfolio for university programs related to Software Engineering, Digital Game Development, and Information Technology. I am particularly interested in using AI and computer vision to solve practical problems in healthcare, accessibility, and education.
+
+Technical Interests:
+
+* Software Development
+* Game Development (Unity & Unreal Engine)
+* Artificial Intelligence & Machine Learning
+* Computer Vision
+* Robotics & Embedded Systems
+* Biomedical Engineering
+* 3D Design and CAD
+
+Projects:
+
+* SmartDesk: AI-powered posture and screen behavior monitoring system
+* Infinite Craft AI: Dynamic item generation system using AI in Unity
+* Fall Detection System for elderly safety monitoring
+* Biomedical AI concepts for disease screening and healthcare applications
+
+My goal is to create technology that has a meaningful impact on people's lives while continuously learning and improving my engineering and problem-solving skills.
