@@ -1,8 +1,3 @@
-import numpy as np
-import matplotlib.pyplot as plt
-
-x = np.linspace(0, 10, 100)
-y = np.sin(x)
-plt.plot(x, y)
-plt.title("Hello from " + "Tarlee")
-plt.show()
+name = input("What is your name: ")
+like = input("What do you like: ")
+print(name + " like " + like + ".") 
